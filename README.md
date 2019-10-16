@@ -1,3 +1,5 @@
+This project is about Webcam and video manipulation，then can press button for saving the video frame.
+
 ## webcam page
 <br>
 ▶▶網路攝影機頁面<br>
