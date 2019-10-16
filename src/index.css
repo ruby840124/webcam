@@ -1,0 +1,58 @@
+html, body, #root {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+Button{
+		border:0;
+		background-color:#003C9D;
+		color:#fff;border-radius:10px;
+    margin-left:5px;
+		height:25px;
+		width:80px;
+		white-space:nowrap;
+}
+
+@font-face {
+  font-family: ProximaNova-Bold;
+  src: url("https://plugins2.perfectcorp.com/assets/fonts/proximanova_bold.eot");
+  src: url("https://plugins2.perfectcorp.com/assets/fonts/proximanova-bold.otf") format("opentype");
+}
+
+ 
+
+.grayfilter {
+  -webkit-filter: grayscale(50%); /* Safari */
+  filter: grayscale(50%);
+  margin-left:5px;
+  width:100px;
+  height:200px;
+}
+
+.sepia{
+  -webkit-filter: sepia(80%); /* Safari */
+  filter: sepia(80%);
+  margin-left:15px;
+  width:100px;
+  height:200px;
+}
+
+.blur{
+  -webkit-filter: hue-rotate(90deg); /* Safari */
+  filter: hue-rotate(90deg);
+  margin-left:15px;
+  width:100px;
+  height:200px;
+}
+
+.invert{
+  -webkit-filter: invert(80%); /* Safari */
+  filter: invert(80%);
+  margin-left:15px;
+  width:100px;
+  height:200px;
+}    
+ 
