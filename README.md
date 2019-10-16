@@ -10,8 +10,10 @@ screenShot可以進行螢幕截圖，zoom in可以放大鏡頭畫面，zoom out�
 <br>
 ▶▶視訊截圖頁面<br>
 視訊截圖結果，並可按下save儲存圖片
-此頁面有三個按鈕，webcam、save<br>
+此頁面有兩個按鈕，webcam、save<br>
+
 ### `screenShot`
+
 <img src="https://github.com/ruby840124/webcam/blob/master/image/screenShot.JPG" width="75%" height="75%"> <br>
 
 
