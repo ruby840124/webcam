@@ -9,13 +9,17 @@ screenShot可以進行螢幕截圖，zoom in可以放大鏡頭畫面，zoom out�
 
 網路攝影機擷取畫面
 
-<img src="https://github.com/ruby840124/webcam/blob/master/image/webcam.JPG" width="75%" height="75%"> <br>.
+<img src="https://github.com/ruby840124/webcam/blob/master/image/webcam.JPG" width="75%" height="75%"> <br>
 -----
 ### `zoom in`
+
+放大網路攝影機擷取畫面
 
 <img src="https://github.com/ruby840124/webcam/blob/master/image/zoomin.JPG" width="75%" height="75%"> <br>
 -----
 ### `zoom out`
+
+縮小網路攝影機擷取畫面
 
 <img src="https://github.com/ruby840124/webcam/blob/master/image/zoomout.JPG" width="75%" height="75%"> <br>
 -----
@@ -27,9 +31,13 @@ screenShot可以進行螢幕截圖，zoom in可以放大鏡頭畫面，zoom out�
 
 ### `screenShot`
 
+網路攝影機畫面截圖
+
 <img src="https://github.com/ruby840124/webcam/blob/master/image/screenShot.JPG" width="75%" height="75%"> <br>
 -----
 ### `save`
+
+存下畫面截圖的圖片檔案(jpg)
 
 <img src="https://github.com/ruby840124/webcam/blob/master/image/save.JPG" width="75%" height="75%"> <br>
 -----
