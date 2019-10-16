@@ -4,6 +4,9 @@
 使用mediaDevices擷取視訊畫面，並將vidoe的frame內容渲染在canvas中，<br>
 此頁面有三個按鈕，screenShot、zoom in、zoom out<br>
 screenShot可以進行螢幕截圖，zoom in可以放大鏡頭畫面，zoom out可以縮小鏡頭畫面<br><br>
+
+### `webcam`
+
 <img src="https://github.com/ruby840124/webcam/blob/master/image/webcam.JPG" width="75%" height="75%"> <br>
 
 ## screenShot page
@@ -16,7 +19,9 @@ screenShot可以進行螢幕截圖，zoom in可以放大鏡頭畫面，zoom out�
 
 <img src="https://github.com/ruby840124/webcam/blob/master/image/screenShot.JPG" width="75%" height="75%"> <br>
 
+### `save`
 
+<img src="https://github.com/ruby840124/webcam/blob/master/image/save.JPG" width="75%" height="75%"> <br>
 
 ### `yarn start`
 
