@@ -6,7 +6,7 @@
 screenShot可以進行螢幕截圖，zoom in可以放大鏡頭畫面，zoom out可以縮小鏡頭畫面<br><br>
 
 ### `webcam`
-
+網路攝影機擷取畫面
 <img src="https://github.com/ruby840124/webcam/blob/master/image/webcam.JPG" width="75%" height="75%"> <br>.
 -----
 ### `zoom in`
