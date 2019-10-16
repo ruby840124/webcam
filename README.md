@@ -1,4 +1,4 @@
-This project is about Webcam and video manipulation，then can press button for saving the video frame.
+This project is about Webcam and video manipulationthen can press button for saving the video frame.
 
 ## webcam page
 <br>
