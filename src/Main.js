@@ -1,5 +1,4 @@
 import React from "react"
-import defaultPicture from './image/cat.jpg';
 class Main extends React.Component {
 	constructor(props) {
         super(props);
@@ -132,12 +131,11 @@ class Main extends React.Component {
                 </div>
                 <div style={{display:"flex"}}>
                     <button className="buttonStyle" onClick={this.handleScreenShot}>{buttonText}</button>
-                    <a id="download" download="screenshot.jpg" href={this.state.href} style={{display:this.state.screenDisplay}}><button onClick={this.handleSave}>Save</button></a>
+                    <a id="download" download="screenshot.jpg" href={this.state.href} style={{display:this.state.screenDisplay}} onClick={this.handleSave}><button>Save</button></a>
                     <button className="buttonStyle" onClick={this.handleZoomIn}  style={{display:this.state.wecamDisplay}}>zoom in</button>
                     <button className="buttonStyle" onClick={this.handleZoomOut} style={{display:this.state.wecamDisplay}}>zoom out</button>
                 </div>
                 <div style={{display:"flex"}}>
-                    <h1 style={{textAlign:"center"}}>grayfilter</h1>
                     <video className={filterStyle[0]} id="filter1" style={{display:this.state.wecamDisplay}} autoPlay></video>
                     <video className={filterStyle[1]} id="filter2" style={{display:this.state.wecamDisplay}} autoPlay></video>
                     <video className={filterStyle[2]} id="filter3" style={{display:this.state.wecamDisplay}} autoPlay></video>
