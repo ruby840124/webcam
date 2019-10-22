@@ -49,4 +49,8 @@ This project is about Webcam and video manipulationthen can press button for sav
 ▶{width:width,height:height,scaleWidth:scaleWidth,scaleHeight:scaleHeight}<br>
 can be re-written as:<br>
 {width,height,scaleWidth,scaleHeight}<br>
-▶wecamDisplay and screenDisplay might be combined into one state whose value can be "webcam" and "screen"
+▶wecamDisplay and screenDisplay might be combined into one state whose value can be "webcam" and "screen"<br>
+▶there is no guarantee that isToggleOn is already updated in line 78-82<br>
+▶use of scale method may make the implementation simpler<br>
+check https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/scale<br>
+
