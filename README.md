@@ -1,12 +1,4 @@
 This project is about Webcam and video manipulationthen can press button for saving the video frame.
-更新程式碼(10/22):<br>
-▶{width:width,height:height,scaleWidth:scaleWidth,scaleHeight:scaleHeight}<br>
-can be re-written as:<br>
-{width,height,scaleWidth,scaleHeight}<br>
-▶wecamDisplay and screenDisplay might be combined into one state whose value can be "webcam" and "screen"
-
-
-
 
 ## webcam page
 <br>
@@ -52,3 +44,9 @@ can be re-written as:<br>
 
 <img src="https://github.com/ruby840124/webcam/blob/master/image/save.JPG" width="75%" height="75%"> <br>
 -----
+
+### `更新程式碼(10/22)`
+▶{width:width,height:height,scaleWidth:scaleWidth,scaleHeight:scaleHeight}<br>
+can be re-written as:<br>
+{width,height,scaleWidth,scaleHeight}<br>
+▶wecamDisplay and screenDisplay might be combined into one state whose value can be "webcam" and "screen"
