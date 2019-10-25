@@ -45,6 +45,7 @@ This project is about Webcam and video manipulationthen can press button for sav
 <img src="https://github.com/ruby840124/webcam/blob/master/image/save.JPG" width="75%" height="75%"> <br>
 -----
 
+demo:https://ruby840124.github.io/webcam/
 ### `更新程式碼(10/22)`
 ▶{width:width,height:height,scaleWidth:scaleWidth,scaleHeight:scaleHeight}<br>
 can be re-written as:<br>
